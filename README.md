@@ -1,33 +1,34 @@
 # Trang Tuan Vinh
 
-Computer Science student focused on computer vision, specifically image segmentation and dataset construction for urban traffic scenes.
+## About me
+
+Computer Science student focused on computer vision, particularly instance segmentation and dataset construction for urban traffic scenes. I work mainly with Python and C#, and I am building practical experience through a dataset and model-training project centered on Vietnamese traffic imagery.
 
 Location: Ho Chi Minh City, Vietnam
 
----
-
-## Areas of Interest
+## Currently learning
 
 - Instance Segmentation and Object Detection (YOLO11, SAM 2)
-- Building and labeling traffic image datasets (CVAT, annotation workflows)
-- Computer vision applied to urban traffic in Vietnam
-- Deep Learning with PyTorch
+- Semi-automatic annotation workflows (CVAT)
+- Deep Learning fundamentals with PyTorch
 
-## Featured Project
+## Featured project
 
-### VN-Traffic-Instance-Segmentation-YOLO11
+**VN-Traffic-Instance-Segmentation-YOLO11**
 Official repository for building a Vietnamese urban traffic dataset (BDD100K-ViSeg) and performing instance segmentation using YOLO11, SAM 2, and CVAT.
 
-Main contents:
 - Data collection and preprocessing pipeline for traffic images
 - Semi-automatic labeling pipeline combining SAM 2 and CVAT
 - Training and evaluation of YOLO11 for instance segmentation
 
----
+## Tech stack
 
-## Tech Stack
+Languages: Python, C#
+Frameworks / Tools: PyTorch, YOLO11, SAM 2, CVAT, OpenCV, Jupyter Notebook
 
-Python · C# · PyTorch · YOLO11 · SAM 2 · CVAT · Jupyter Notebook · OpenCV
+## Certificates & achievements
+
+*(add here once available — course certificates, competition results, etc.)*
 
 ## Contact
 
