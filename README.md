@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vinh 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E6FEA&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern;Computer+Vision+%26+Deep+Learning;YOLOv11+%2B+SAM+2+%2B+PyTorch;Building+Smart+City+%26+IOS+Solutions" alt="Typing SVG" />
@@ -14,16 +14,16 @@
 
 ---
 
-### 🔭 About Me
+###  About Me
 
-- 🎓 Final-year **Computer Science / AI** student at [Your University].
-- 🚀 Passionate about **Computer Vision**, **Object Detection & Segmentation**, and **Smart City Surveillance Systems**.
-- 💡 Actively working on **Vietnamese Urban Traffic Dataset (BDD100K-ViSeg)** using **YOLO11**, **SAM 2**, and **CVAT**.
-- 🎯 Seeking an **AI Intern / AI Engineer** role at **ALTA Software** to contribute to real-world AI & Big Data products (Incident Observation System, Access Control).
+-  Final-year **Computer Science / AI** student at [Your University].
+-  Passionate about **Computer Vision**, **Object Detection & Segmentation**, and **Smart City Surveillance Systems**.
+-  Actively working on **Vietnamese Urban Traffic Dataset (BDD100K-ViSeg)** using **YOLO11**, **SAM 2**, and **CVAT**.
+-  Seeking an **AI Intern / AI Engineer** role at **ALTA Software** to contribute to real-world AI & Big Data products (Incident Observation System, Access Control).
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 #### **AI / Deep Learning & Computer Vision**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -63,18 +63,4 @@
 
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuanvinh1307&theme=tokyonight"/>
 
-</div>
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*(Automated using [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow))*
-
----
-
-<div align="center">
-  <i>"Transforming Computer Vision algorithms into scalable, real-world AI solutions."</i>
 </div>
