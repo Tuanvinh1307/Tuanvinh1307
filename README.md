@@ -6,6 +6,7 @@
 
 <div align="center">
 
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tuanvinh1307.Tuanvinh1307)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
@@ -54,10 +55,6 @@
 ###  GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuanvinh1307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <br/><br/>
 
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuanvinh1307&theme=tokyonight"/>
 
