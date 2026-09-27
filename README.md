@@ -6,7 +6,6 @@
 
 <div align="center">
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tuanvinh1307.Tuanvinh1307)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
