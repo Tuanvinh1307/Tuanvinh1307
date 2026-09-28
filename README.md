@@ -16,10 +16,11 @@
 
 ###  About Me
 
--  Final-year **Data Science** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology).
--  Passionate about **Computer Vision**, **Object Detection & Segmentation**, and **Smart City Surveillance Systems**.
--  Actively working on **Vietnamese Urban Traffic Dataset (BDD100K-ViSeg)** using **YOLO11**, **SAM 2**, and **CVAT**.
--  Seeking an **AI Intern / AI Engineer** role at **ALTA Software** to contribute to real-world AI & Big Data products (Incident Observation System, Access Control).
+-  **Data Science** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology), 2023 - 2027.
+-  Interested in **Computer Vision**, especially **object detection and instance segmentation** for traffic scenes.
+-  Built an instance segmentation dataset for Vietnamese urban traffic (**BDD100K + HCMC images**), labeled with **CVAT** and **SAM 2** and trained with **YOLO11x-seg**.
+-  Also built **MovieScout AI**, a semantic movie search system using hybrid search (dense + BM25), HyDE and cross-encoder reranking.
+-  Looking for a **Computer Vision / AI Engineer internship**, and currently learning **OCR and Document AI**.
 
 ---
 
