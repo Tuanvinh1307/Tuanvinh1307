@@ -16,7 +16,7 @@
 
 ###  About Me
 
--  Final-year **Computer Science / AI** student at [Your University].
+-  Final-year **Data Science** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology).
 -  Passionate about **Computer Vision**, **Object Detection & Segmentation**, and **Smart City Surveillance Systems**.
 -  Actively working on **Vietnamese Urban Traffic Dataset (BDD100K-ViSeg)** using **YOLO11**, **SAM 2**, and **CVAT**.
 -  Seeking an **AI Intern / AI Engineer** role at **ALTA Software** to contribute to real-world AI & Big Data products (Incident Observation System, Access Control).
@@ -25,30 +25,34 @@
 
 ###  Tech Stack & Tools
 
-#### **AI / Deep Learning & Computer Vision**
+#### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### **Computer Vision**
 ![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-555555?style=for-the-badge)
+
+#### **Generative AI**
+![RAG](https://img.shields.io/badge/RAG-Hybrid_Search-2E6FEA?style=for-the-badge)
+![Reranking](https://img.shields.io/badge/Reranking-Cross--Encoder-2E6FEA?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Integration-2E6FEA?style=for-the-badge)
+
+#### **ML & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### **Backend & MLOps / Infrastructure**
+#### **Tools & Deployment**
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-###  Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[VN Traffic Instance Segmentation (BDD100K-ViSeg)](https://github.com/Tuanvinh1307/VN-Traffic-Instance-Segmentation-YOLO11)** | Official dataset construction & instance segmentation for Vietnamese urban traffic environment. | `YOLO11`, `SAM 2`, `CVAT`, `PyTorch` |
-| **Smart Incident Observation System (IOS)** | Real-time surveillance video pipeline for detecting traffic anomalies and security breaches. | `OpenCV`, `YOLOv8`, `FastAPI`, `Streamlit` |
-| **Facial Recognition Access Control System** | High-speed face embedding extraction and vector matching with anti-spoofing liveness detection. | `ArcFace`, `FAISS`, `Docker`, `Python` |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
