@@ -1,7 +1,7 @@
 # Hi there, I'm Vinh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E6FEA&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern;Computer+Vision+%26+Deep+Learning;YOLOv11+%2B+SAM+2+%2B+PyTorch;Building+Smart+City+%26+IOS+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E6FEA&center=true&vCenter=true&width=500&lines=TRANG+TUAN+VINH;COMPUTER+VISION+%26+DEEP+LEARNING" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,9 @@
 ###  About Me
 
 -  **Data Science** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology), 2023 - 2027.
--  Interested in **Computer Vision**, especially **object detection and instance segmentation**.
+-  Interested in **Computer Vision**, especially **object detection and instance segmentation** for traffic scenes.
+-  Built an instance segmentation dataset for Vietnamese urban traffic (**BDD100K + HCMC images**), labeled with **CVAT** and **SAM 2** and trained with **YOLO11x-seg**.
+-  Also built **MovieScout AI**, a semantic movie search system using hybrid search (dense + BM25), HyDE and cross-encoder reranking.
 -  Looking for a **Computer Vision / AI Engineer internship**, and currently learning **OCR and Document AI**.
 
 ---
