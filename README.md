@@ -18,8 +18,6 @@
 
 -  **Data Science** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology), 2023 - 2027.
 -  Interested in **Computer Vision**, especially **object detection and instance segmentation** for traffic scenes.
--  Built an instance segmentation dataset for Vietnamese urban traffic (**BDD100K + HCMC images**), labeled with **CVAT** and **SAM 2** and trained with **YOLO11x-seg**.
--  Also built **MovieScout AI**, a semantic movie search system using hybrid search (dense + BM25), HyDE and cross-encoder reranking.
 -  Looking for a **Computer Vision / AI Engineer internship**, and currently learning **OCR and Document AI**.
 
 ---
