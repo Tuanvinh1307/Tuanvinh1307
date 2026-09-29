@@ -31,6 +31,7 @@
 
 #### **Computer Vision**
 ![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![NanoDet](https://img.shields.io/badge/NanoDet-Lightweight_Detector-FF6B35?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CNNs](https://img.shields.io/badge/CNNs-555555?style=for-the-badge)
 
