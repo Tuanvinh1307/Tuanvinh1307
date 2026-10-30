@@ -18,7 +18,7 @@
 
 -  **Data Science** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology), 2023 - 2027.
 -  Interested in **Computer Vision**, especially **object detection and instance segmentation**.
--  Looking for a **Computer Vision / AI Engineer internship**, and currently learning **OCR and Document AI**.
+-  Looking for a **Computer Vision / AI Engineer internship**
 
 ---
 
